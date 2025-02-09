@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nisa</h1>
 <h3 align="center">A passionate frontend developer from Türkiye</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nisaltnbas&label=Profile%20views&color=0e75b6&style=flat" alt="nisaltnbas" /> </p>
-
 - 🔭 I’m currently working on [discord-clone](https://github.com/fatihhcakir/discord-clone.git)
 
 - 📫 How to reach me **altnbasnisa@gmail.com**
@@ -20,3 +18,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nisaltnbas&show_icons=true&locale=en" alt="nisaltnbas" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nisaltnbas&" alt="nisaltnbas" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nisaltnbas&label=Profile%20views&color=0e75b6&style=flat" alt="nisaltnbas" /> </p>
+
