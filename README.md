@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nisa</h1>
 <h3 align="center">A passionate full stack developer from Türkiye</h3>
 
-- 🔭 I’m currently working on [discord-clone](https://github.com/fatihhcakir/discord-clone.git)
-
 - 📫 How to reach me **altnbasnisa@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
