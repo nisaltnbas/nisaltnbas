@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Nisa</h1>
-<h3 align="center">A passionate full stack developer from Türkiye</h3>
 
 - 📫 How to reach me **altnbasnisa@gmail.com**
 
